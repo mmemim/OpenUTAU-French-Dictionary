@@ -8,3 +8,5 @@ This dictionary is meant to be used with French CVVC Phonemizer, compatible with
 Please place the `cmudict_fr.txt` file in the `Dictionaries` folder of your OpenUTAU install. If it doesn't exist, you can create one.
 
 Feel free to contribute.
+
+Google Drive mirror for Download: https://drive.google.com/file/d/1m-wnt5reJ0d9rGC2e1jMlZUMeioA5Lnw/view
