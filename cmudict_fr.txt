@@ -3,121 +3,121 @@
 ;;;  available here https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/French/
 ;;;  https://github.com/cmusphinx/cmudict
 ;;;  ;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;  Version 1.4
-;;;  17/08/22, corrected pronunciation with the help of the community
+;;;  Version 1.5
+;;;  22/11/22: more correction + added new symbols for multilingual support
 あ  aa
 い  ii
 う  ou
 え  ai
-お  oo
+お  au
 か  kk aa
 き  kk ii
 く  kk ou
 け  kk ai
-こ  kk oo
+こ  kk au
 さ  ss aa
 し  ch ii
 す  ss ou
 せ  ss ai
-そ  ss oo
+そ  ss au
 た  tt aa
 ち  tt ch ii
 つ  tt ss ou
 て  tt ai
-と  tt oo
+と  tt au
 な  nn aa
 に  nn ii
 ぬ  nn ou
 ね  nn ai
-の  nn oo
+の  nn au
 は  hh aa
 ひ  hh ii
 ふ  ff ou
 へ  hh ai
-ほ  hh oo
+ほ  hh au
 ま  mm aa
 み  mm ii
 む  mm ou
 め  mm ai
-も  mm oo
+も  mm au
 や  yy aa
 ゆ  yy ou
-よ  yy oo
-ら  ll aa
-り  ll ii
-る  ll ou
-れ  ll ai
-ろ  ll oo
+よ  yy au
+ら  4 aa
+り  4 ii
+る  4 ou
+れ  4 ai
+ろ  4 au
 わ  ww aa
-を  ww oo
+を  ww au
 うぁ  ww aa
 うぃ  ww ii
 うぇ  ww ee
-うぉ  ww oo
+うぉ  ww au
 ん  nn oe
 ん(2)  nn
 が  gg aa
 ぎ  gg ii
 ぐ  gg ou
 げ  gg ai
-ご  gg oo
+ご  gg au
 ざ  dd zz aa
 じ  dd jj ii
 ず  dd zz ou 
 ぜ  dd zz ai
-ぞ  dd zz oo
+ぞ  dd zz au
 だ  dd aa
 ぢ  dd ii
 づ  dd ou
 で  dd ai
-ど  dd oo
+ど  dd au
 ば  bb aa
 び  bb ii
-ぶ  bb ou
+ぶ  bb au
 べ  bb ai
-ぼ  bb oo
+ぼ  bb au
 ぱ  pp aa
 ぴ  pp ii
 ぷ  pp ou
 ぺ  pp ai
-ぽ  pp oo
+ぽ  pp au
 きゃ  kk yy aa
 きゅ  kk yy ou
-きょ  kk yy oo
+きょ  kk yy au
 しゃ  ch aa
 しゅ  ch ou
-しょ  ch oo
+しょ  ch au
 ちゃ  tt ch aa
 ちゅ  tt ch ou
-ちょ  tt ch oo
+ちょ  tt ch au
 にゃ  nn yy aa
 にゅ  nn yy ou
-にょ  nn yy oo 
+にょ  nn yy au 
 ひゃ  hh yy aa
 ひゅ  hh yy ou
-ひょ  hh yy oo 
+ひょ  hh yy au 
 みゃ  mm yy aa
 みゅ  mm yy ou
-みょ  mm yy oo
+みょ  mm yy au
 りゃ  ll yy aa
 りゅ  ll yy ou
-りょ  ll yy oo
+りょ  ll yy au
 ぎゃ  gg yy aa
 ぎゅ  gg yy ou
-ぎょ  gg yy oo
+ぎょ  gg yy au
 じゃ  dd yy aa
 じゅ  dd yy ou
-じょ  dd yy oo
+じょ  dd yy au
 びゃ  bb yy aa
 びゅ  bb yy ou
-びょ  bb yy oo
+びょ  bb yy au
 ぴゃ  pp yy aa
 ぴゅ  pp yy ou
-ぴょ  pp yy oo
+ぴょ  pp yy au
 いぁ  yy aa 
 いぅ  yy ou
 いぇ  yy ai
-いぉ  yy oo
+いぉ  yy au
 きぇ  kk yy ai
 しぇ  ch ai
 ちぇ  tt ch ai
@@ -32195,37 +32195,37 @@ désinvolte  dd ai zz in vv oo ll tt
 désinvolte(2)  dd ai zz in vv oo ll tt ee
 désinvolture  dd ai zz in vv oo ll tt uu rr
 désinvolture(2)  dd ai zz in vv oo ll tt uu rr ee
-désir  dd ai zz ii rr
-désirable  dd ai zz ii rr aa bb ll
-désirable(2)  dd ai zz ii rr aa bb ll ee
-désiraient  dd ai zz ii rr ai
-désiraient(2)  dd ai zz ii rr ai tt
-désirait  dd ai zz ii rr ai
-désirait(2)  dd ai zz ii rr ai tt
-désirant  dd ai zz ii rr an
-désirant(2)  dd ai zz ii rr an tt
-désire  dd ai zz ii rr
-désire(2)  dd ai zz ii rr ee
-désirent  dd ai zz ii rr ee
-désirer  dd ai zz ii rr ei
-désirer(2)  dd ai zz ii rr ei rr
-désireuse  dd ai zz ii rr eu zz
-désireuse(2)  dd ai zz ii rr eu zz ee
+désir  dd ei zz ii rr
+désirable  dd ei zz ii rr aa bb ll
+désirable(2)  dd ei zz ii rr aa bb ll ee
+désiraient  dd ei zz ii rr ai
+désiraient(2)  dd ei zz ii rr ai tt
+désirait  dd ei zz ii rr ai
+désirait(2)  dd ei zz ii rr ai tt
+désirant  dd ei zz ii rr an
+désirant(2)  dd ei zz ii rr an tt
+désire  dd ei zz ii rr
+désire(2)  dd ei zz ii rr ee
+désirent  dd ei zz ii rr ee
+désirer  dd ei zz ii rr ei
+désirer(2)  dd ei zz ii rr ei rr
+désireuse  dd ei zz ii rr eu zz
+désireuse(2)  dd ei zz ii rr eu zz ee
 désireuses  dd ai zz ii rr eu zz
-désireuses(2)  dd ai zz ii rr eu zz ee
-désireuses(3)  dd ai zz ii rr eu zz ee zz
-désireuses(4)  dd ai zz ii rr eu zz zz
-désireux  dd ai zz ii rr eu
-désireux(2)  dd ai zz ii rr eu zz
-désirs  dd ai zz ii rr
-désirs(2)  dd ai zz ii rr zz
-désiré  dd ai zz ii rr ei
-désirée  dd ai zz ii rr ei
-désirées  dd ai zz ii rr ei
-désirées(2)  dd ai zz ii rr ei zz
-désistement  dd ai zz ii ss tt ee mm an
-désistements  dd ai zz ii ss tt ee mm an
-désistements(2)  dd ai zz ii ss tt ee mm an zz
+désireuses(2)  dd ei zz ii rr eu zz ee
+désireuses(3)  dd ei zz ii rr eu zz ee zz
+désireuses(4)  dd ei zz ii rr eu zz zz
+désireux  dd ei zz ii rr eu
+désireux(2)  dd ei zz ii rr eu zz
+désirs  dd ei zz ii rr
+désirs(2)  dd ei zz ii rr zz
+désiré  dd ei zz ii rr ei
+désirée  dd ei zz ii rr ei
+désirées  dd ei zz ii rr ei
+désirées(2)  dd ei zz ii rr ei zz
+désistement  dd ei zz ii ss tt ee mm an
+désistements  dd ei zz ii ss tt ee mm an
+désistements(2)  dd ei zz ii ss tt ee mm an zz
 désistent  dd ai zz ii ss tt ee
 désister  dd ai zz ii ss tt ei
 désister(2)  dd ai zz ii ss tt ei rr
@@ -34175,8 +34175,7 @@ enfantins(2)  an ff an tt in zz
 enfants  an ff an
 enfants(2)  an ff an zz
 enfanté  an ff an tt ei
-enfer  ai nn ff ai rr
-enfer(2)  an ff ai rr
+enfer  an ff ai rr
 enfermait  an ff ai rr mm ai
 enfermait(2)  an ff ai rr mm ai tt
 enfermant  an ff ai rr mm an
@@ -38011,9 +38010,8 @@ fauvet  ff au vv ai
 fauviau  ff au vv yy au
 fauvisme  ff oo vv ii ss mm
 fauvisme(2)  ff oo vv ii ss mm ee
-faux  ff aa uu kk ss
-faux(2)  ff au
-faux(3)  ff au zz
+faux  ff au
+faux(2)  ff au zz
 faux-semblant  ff oo ss an bb ll an
 faux-semblants  ff oo ss an bb ll an
 faux-semblants(2)  ff oo ss an bb ll an zz
@@ -66101,9 +66099,8 @@ observatoires(4)  oo bb ss ai rr vv aa tt ww aa rr zz
 observe  oo bb ss ai rr vv
 observe(2)  oo bb ss ai rr vv ee
 observent  oo bb ss ai rr vv ee
-observer  oo bb ss ai rr vv ai rr
-observer(2)  oo bb ss ai rr vv ei
-observer(3)  oo bb ss ai rr vv ei rr
+observer  oo bb ss ai rr vv ei
+observer(2)  oo bb ss ai rr vv ei rr
 observera  oo bb ss ai rr vv ee rr aa
 observons  oo bb ss ai rr vv on
 observons(2)  oo bb ss ai rr vv on zz
@@ -66915,9 +66912,8 @@ onomatopées  oo nn oo mm aa tt oo pp ei
 onomatopées(2)  oo nn oo mm aa tt oo pp ei zz
 onomatopéique  oo nn oo mm aa tt oo pp ai ii kk
 onomatopéique(2)  oo nn oo mm aa tt oo pp ai ii kk ee
-ont  au nn tt
-ont(2)  on
-ont(3)  on tt
+ont  on
+ont(2)  on tt
 ontario  on tt aa rr yy au
 ontologique  on tt oo ll oo jj ii kk
 ontologique(2)  on tt oo ll oo jj ii kk ee
@@ -71719,14 +71715,14 @@ piètres(2)  pp yy ai tt rr ee
 piètres(3)  pp yy ai tt rr ee zz
 piètres(4)  pp yy ai tt rr zz
 piédestal  pp yy ai dd ai ss tt aa ll
-piéger  pp yy ai jj ei
-piéger(2)  pp yy ai jj ei rr
-piégé  pp yy ai jj ei
-piégée  pp yy ai jj ei
-piégées  pp yy ai jj ei
-piégées(2)  pp yy ai jj ei zz
-piégés  pp yy ai jj ei
-piégés(2)  pp yy ai jj ei zz
+piéger  pp yy ei jj ei
+piéger(2)  pp yy ei jj ei rr
+piégé  pp yy ei jj ei
+piégée  pp yy ei jj ei
+piégées  pp yy ei jj ei
+piégées(2)  pp yy ei jj ei zz
+piégés  pp yy ei jj ei
+piégés(2)  pp yy ei jj ei zz
 piémont  pp yy ei mm on
 piémontais  pp yy ai mm on tt ai
 piémontais(2)  pp yy ai mm on tt ai zz
@@ -73326,42 +73322,42 @@ postérieurs(2)  pp oo ss tt ai rr yy oe rr zz
 postérité  pp oo ss tt ai rr ii tt ei
 postés  pp oo ss tt ei
 postés(2)  pp oo ss tt ei zz
-posé  pp oo zz ei
-posée  pp oo zz ei
-posées  pp oo zz ei
-posées(2)  pp oo zz ei zz
-posément  pp oo zz ai mm an
-posément(2)  pp oo zz ai mm an tt
-posés  pp oo zz ei
-posés(2)  pp oo zz ei zz
+posé  pp au zz ei
+posée  pp au zz ei
+posées  pp au zz ei
+posées(2)  pp au zz ei zz
+posément  pp au zz ai mm an
+posément(2)  pp au zz ai mm an tt
+posés  pp au zz ei
+posés(2)  pp au zz ei zz
 pot  pp au
-pot-au-feu  pp oo tt oo ff eu
-pot-de-vin  pp oo dd ee vv in
-pot-pourri  pp oo pp ou rr ii
-potable  pp oo tt aa bb ll
-potable(2)  pp oo tt aa bb ll ee
-potache  pp oo tt aa ch
-potache(2)  pp oo tt aa ch ee
-potaches  pp oo tt aa ch
-potaches(2)  pp oo tt aa ch ee
-potaches(3)  pp oo tt aa ch ee zz
-potaches(4)  pp oo tt aa ch zz
-potage  pp oo tt aa jj
-potage(2)  pp oo tt aa jj ee
-potager  pp oo tt aa jj ei
-potager(2)  pp oo tt aa jj ei rr
+pot-au-feu  pp au tt au ff eu
+pot-de-vin  pp au dd ee vv in
+pot-pourri  pp au pp ou rr ii
+potable  pp au tt aa bb ll
+potable(2)  pp au tt aa bb ll ee
+potache  pp au tt aa ch
+potache(2)  pp au tt aa ch ee
+potaches  pp au tt aa ch
+potaches(2)  pp au tt aa ch ee
+potaches(3)  pp au tt aa ch ee zz
+potaches(4)  pp au tt aa ch zz
+potage  pp au tt aa jj
+potage(2)  pp au tt aa jj ee
+potager  pp au tt aa jj ei
+potager(2)  pp au tt aa jj ei rr
 potanine  pp au tt aa nn ii nn
-potasse  pp oo tt aa ss
-potasse(2)  pp oo tt aa ss ee
-potassium  pp oo tt aa ss yy oo mm
+potasse  pp au tt aa ss
+potasse(2)  pp au tt aa ss ee
+potassium  pp au tt aa ss yy oo mm
 pote  pp oo tt
 pote(2)  pp oo tt ee
-poteau  pp oo tt au
-poteaux  pp oo tt au
-poteaux(2)  pp oo tt au zz
+poteau  pp au tt au
+poteaux  pp au tt au
+poteaux(2)  pp au tt au zz
 potemkine  pp au tt ei mm kk ii nn
-potence  pp oo tt an ss
-potence(2)  pp oo tt an ss ee
+potence  pp au tt an ss
+potence(2)  pp au tt an ss ee
 potentat  pp oo tt an tt aa
 potentats  pp oo tt an tt aa
 potentats(2)  pp oo tt an tt aa zz
@@ -74695,8 +74691,8 @@ projectiles(4)  pp rr oo jj ai kk tt ii ll zz
 projection  pp rr oo jj ai kk ss yy on
 projections  pp rr oo jj ai kk ss yy on
 projections(2)  pp rr oo jj ai kk ss yy on zz
-projet  pp rr au jj ai tt
-projet(2)  pp rr oo jj ai
+projet  pp rr au jj ai
+projet(2)  pp rr oo jj ai tt
 projetaient  pp rr oo jj ee tt ai
 projetaient(2)  pp rr oo jj ee tt ai tt
 projetait  pp rr oo jj ee tt ai
@@ -74812,7 +74808,7 @@ promises(3)  pp rr oo mm ii zz ee zz
 promises(4)  pp rr oo mm ii zz zz
 promit  pp rr oo mm ii
 promit(2)  pp rr oo mm ii tt
-promo  pp rr oo mm au
+promo  pp rr au mm au
 promodes  pp rr au mm au dd ai ss
 promodès  pp rr oo mm oo dd ai ss
 promontoire  pp rr oo mm on tt ww aa rr
@@ -88064,14 +88060,14 @@ seuils(2)  ss oe yy zz
 seul  ss oe ll
 seule  ss oe ll
 seule(2)  ss oe ll ee
-seulement  ss ee ll ee mm an
-seulement(2)  ss ee ll ee mm an tt
-seulement(3) ss ee ll mm an
-seulement(4)  ss ee ll mm an tt
+seulement  ss oe ll ee mm an
+seulement(2)  ss oe ll ee mm an tt
+seulement(3) ss oe ll mm an
+seulement(4)  ss oe ll mm an tt
 seules  ss oe ll
 seules(2)  ss oe ll ee
-seules(3)  ss oe ll ee zz
-seules(4)  ss oe ll zz
+seules(3)  ss oe ll zz
+seules(4)  ss oe ll ee zz
 seuls  ss oe ll
 seuls(2)  ss oe ll zz
 seurat  ss oe rr aa
