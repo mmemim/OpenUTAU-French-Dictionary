@@ -2765,10 +2765,10 @@ aidant(2)  ai dd an tt
 aide  ai dd
 aide(2)  ai dd ee
 aidenbaum  ei ii dd ai nn bb au mm
-aident  ai dd ee
-aider  aa ii dd ai rr
-aider(2)  ai dd ei
-aider(3)  ai dd ei rr
+aident  ai dd
+aident(2)  ai dd ee
+aider  ai dd ei
+aider(2)  ai dd ei rr
 aidera  ai dd ee rr aa
 aideraient  ai dd ee rr ai
 aideraient(2)  ai dd ee rr ai tt
