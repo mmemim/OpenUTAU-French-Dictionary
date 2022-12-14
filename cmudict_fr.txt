@@ -42872,6 +42872,8 @@ gogo  gg oo gg au
 gogol  gg oo gg oo ll
 gogos  gg oo gg au
 goguenard  gg oo gg ee nn aa rr
+goinfre  gg ww in ff rr
+goinfre(2)  gg ww in ff rr ee
 golan  gg au ll an
 golan(2)  gg oo ll an
 gold  gg oo ll dd
