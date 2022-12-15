@@ -1,23 +1,40 @@
 # OpenUTAU-French-Dictionary
 French Dictionary for [OpenUTAU](https://www.openutau.com/), based on the [French CMU Pronouncing Dictionary](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/French/), modified for easier ease in OpenUTAU.
 
-This dictionary is meant to be used with French CVVC Phonemizer, compatible with Petit Mot, Gros Mot & Fraloids voicebanks & the French VCCV Phonemizer, compatible with m2RUg. You can learn more about French UTAUs [here](https://utaufrance.com/).
+This dictionary is meant to be used with French CVVC Phonemizer, compatible with Petit Mot, Gros Mot & Fraloids voicebanks & the French VCCV Phonemizer, compatible with m2RUg. 
+You can learn more about French UTAUs on [frenchutauhelp.carrd.co](https://frenchutauhelp.carrd.co/).
+
+✨ Feel free to contribute ✨
+
+### See also
+
+* [Google Drive mirror for this dictionary download](https://drive.google.com/file/d/1m-wnt5reJ0d9rGC2e1jMlZUMeioA5Lnw/view)
+* [French UTAUs voicebanks and tutorials -> utaufrance.com](https://utaufrance.com/) 
 
 
 ## Download instructions
 
-Please place the `cmudict_fr.txt` file in the `Dictionaries` folder of your OpenUTAU install. If it doesn't exist, you can create one.
+If you just want to install the dictionary without contributing, you won't need a Github account or to understand how to use Git.
+Just follow the two steps below : 
 
-#### Google Drive mirror for Download: https://drive.google.com/file/d/1m-wnt5reJ0d9rGC2e1jMlZUMeioA5Lnw/view
+-  First, download the [cmudict_fr.txt](https://github.com/mmemim/OpenUTAU-French-Dictionary/blob/main/cmudict_fr.txt) file by clicking on the filename
+and then click on the download icon in the upper left corner of the file browser, as shown in the image below.
 
+![](pictures/Download_dict_file_only.png)
 
-## How to contribute
+-  Then drag and drop the file inside your OpenUtau `Dictionaries` folder. If the folder didn't existe, create one at the root of your OpenUtau folder.
 
-To add a word, you should format it like this 
+![](pictures/Drag_file_in_correct_folder.jpg)
 
-`word  ww oo rr dd` 
+## How to add a word
 
-with the word you want to have, **2 spaces**, the phonetics spaced out written in Arpabet. You can and should add additional prononciations with (2), (3) etc.
+Please follow the alphabetical order when adding a new word inside the `cmudict_fr.txt` file.
+
+* Write your word first, then add two blanks space before the first phoneme of the pronunciation.
+* Each phoneme in the pronunciation is separated by a single blank space.
+* Be careful not to accidentally add another blank space at the very end of the line, but just a line break.
+* After saving the file, you can close and re-open OpenUtau to force the dictionary to reload.
+* You can add additional prononciations with (2), (3) etc.
 
 For example, if I wanted to add `parfaitement` I'd add:
 
@@ -29,8 +46,13 @@ For example, if I wanted to add `parfaitement` I'd add:
 
 `parfaitement(4)  pp aa rr ff ai tt mm an tt` shortened form with liaison
 
-Here is a chart of the arpabet phonetics compared to other common phonetics system:
 
+If you're not sure about how to write the prononciation, you can use the phonetic assistant in FrenchG2P as shown in the picture below.
+You will find it in OpenUtau under the "Tools" tab.
+
+![](pictures/Phonetic_assistant.png)
+
+Here is a chart of the arpabet phonetics compared to other common phonetics system:
 
 | Arpabet  | Mot | m2RUg |
 | ------------- | ------------- | ------------- |
@@ -68,8 +90,3 @@ Here is a chart of the arpabet phonetics compared to other common phonetics syst
 | zz | z  | z  |
 | jj | j  | Z  |
 | ww aa | oi  | wA  |
-
-
-Feel free to contribute.
-
-More info on French UTAUs here -> https://utaufrance.com/
