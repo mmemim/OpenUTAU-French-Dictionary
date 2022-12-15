@@ -22,7 +22,7 @@ and then click on the download icon in the upper left corner of the file browser
 
 ![](pictures/Download_dict_file_only.png)
 
--  Then drag and drop the file inside your OpenUtau `Dictionaries` folder. If the folder didn't existe, create one at the root of your OpenUtau folder.
+-  Then drag and drop the file inside your OpenUtau `Dictionaries` folder. If the folder doesn't exist, create one at the root of your OpenUtau folder.
 
 ![](pictures/Drag_file_in_correct_folder.jpg)
 
@@ -30,13 +30,13 @@ and then click on the download icon in the upper left corner of the file browser
 
 Please follow the alphabetical order when adding a new word inside the `cmudict_fr.txt` file.
 
-* Write your word first, then add two blanks space before the first phoneme of the pronunciation.
+* Write your word first, then add **two** blanks space before the first phoneme of the pronunciation.
 * Each phoneme in the pronunciation is separated by a single blank space.
 * Be careful not to accidentally add another blank space at the very end of the line, but just a line break.
 * After saving the file, you can close and re-open OpenUtau to force the dictionary to reload.
 * You can add additional prononciations with (2), (3) etc.
 
-For example, if I wanted to add `parfaitement` I'd add:
+For example, if you wanted to add `parfaitement` you'd add:
 
 `parfaitement  pp aa rr ff ai tt ee mm an` basic form
 
