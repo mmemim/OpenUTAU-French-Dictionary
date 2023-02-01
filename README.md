@@ -2,7 +2,9 @@
 French Dictionary for [OpenUTAU](https://www.openutau.com/), based on the [French CMU Pronouncing Dictionary](https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/French/), modified for easier ease in OpenUTAU.
 
 This dictionary is meant to be used with French CVVC Phonemizer, compatible with Petit Mot, Gros Mot & Fraloids voicebanks & the French VCCV Phonemizer, compatible with m2RUg. 
-You can learn more about French UTAUs on [frenchutauhelp.carrd.co](https://frenchutauhelp.carrd.co/).
+
+You can learn more about French UTAUs on [frenchutauhelp.carrd.co](https://frenchutauhelp.carrd.co/) & [utaufrance.com](https://utaufrance.com/).
+
 If there's any issue, you can contact me through my [Twitter](https://twitter.com/mmem1m).
 
 ✨ Feel free to contribute ✨
