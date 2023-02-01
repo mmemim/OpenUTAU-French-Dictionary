@@ -3,6 +3,7 @@ French Dictionary for [OpenUTAU](https://www.openutau.com/), based on the [Frenc
 
 This dictionary is meant to be used with French CVVC Phonemizer, compatible with Petit Mot, Gros Mot & Fraloids voicebanks & the French VCCV Phonemizer, compatible with m2RUg. 
 You can learn more about French UTAUs on [frenchutauhelp.carrd.co](https://frenchutauhelp.carrd.co/).
+If there's any issue, you can contact me through my [Twitter](https://twitter.com/mmem1m).
 
 ✨ Feel free to contribute ✨
 
